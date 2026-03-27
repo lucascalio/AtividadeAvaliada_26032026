@@ -80,7 +80,7 @@ Ficaram fora do MVP, por escolha de escopo, recursos mais complexos como integra
 - **Include:** UC02, UC03, UC04, UC07  
 - **Extend:** UC05, UC06  
 
-![Diagrama UC](./imagens/DA01_LucasVigoCalio.png)
+![Diagrama DA01](./imagens/DA01_LucasVigoCalio.png)
 
 ---
 
@@ -104,7 +104,7 @@ Ficaram fora do MVP, por escolha de escopo, recursos mais complexos como integra
 ### Relacionamentos
 - **Include:** UC01  
 
-![Diagrama UC](./imagens/DA02_LucasVigoCalio.png)
+![Diagrama DA02](./imagens/DA02_LucasVigoCalio.png)
 
 ---
 
@@ -128,7 +128,7 @@ Ficaram fora do MVP, por escolha de escopo, recursos mais complexos como integra
 ### Relacionamentos
 - **Include:** UC01  
 
-![Diagrama UC](./imagens/DA03_LucasVigoCalio.png)
+![Diagrama DA03](./imagens/DA03_LucasVigoCalio.png)
 
 ---
 
@@ -152,7 +152,7 @@ Ficaram fora do MVP, por escolha de escopo, recursos mais complexos como integra
 ### Relacionamentos
 - **Include:** UC01  
 
-![Diagrama UC](./imagens/DA04_LucasVigoCalio.png)
+![Diagrama DA04](./imagens/DA04_LucasVigoCalio.png)
 
 ---
 
@@ -176,7 +176,7 @@ Ficaram fora do MVP, por escolha de escopo, recursos mais complexos como integra
 ### Relacionamentos
 - **Extend:** UC01  
 
-![Diagrama UC](./imagens/DA05_LucasVigoCalio.png)
+![Diagrama DA05](./imagens/DA05_LucasVigoCalio.png)
 
 ---
 
@@ -200,7 +200,7 @@ Ficaram fora do MVP, por escolha de escopo, recursos mais complexos como integra
 ### Relacionamentos
 - **Extend:** UC01  
 
-![Diagrama UC](./imagens/DA06_LucasVigoCalio.png)
+![Diagrama DA06](./imagens/DA06_LucasVigoCalio.png)
 
 ---
 
@@ -223,7 +223,7 @@ Ficaram fora do MVP, por escolha de escopo, recursos mais complexos como integra
 ### Relacionamentos
 - **Include:** UC01  
 
-![Diagrama UC](./imagens/DA07_LucasVigoCalio.png)
+![Diagrama DA07](./imagens/DA07_LucasVigoCalio.png)
 
 ---
 
@@ -247,7 +247,7 @@ Ficaram fora do MVP, por escolha de escopo, recursos mais complexos como integra
 ### Relacionamentos
 - **Include:** UC09, UC10  
 
-![Diagrama UC](./imagens/DA08_LucasVigoCalio.png)
+![Diagrama DA08](./imagens/DA08_LucasVigoCalio.png)
 
 ---
 
@@ -271,7 +271,7 @@ Ficaram fora do MVP, por escolha de escopo, recursos mais complexos como integra
 ### Relacionamentos
 - **Include:** UC08  
 
-![Diagrama UC](./imagens/DA09_LucasVigoCalio.png)
+![Diagrama DA09](./imagens/DA09_LucasVigoCalio.png)
 
 ---
 
@@ -295,6 +295,6 @@ Ficaram fora do MVP, por escolha de escopo, recursos mais complexos como integra
 ### Relacionamentos
 - **Include:** UC08  
 
-![Diagrama UC](./imagens/DA10_LucasVigoCalio.png)
+![Diagrama DA10](./imagens/DA10_LucasVigoCalio.png)
 
 ---
