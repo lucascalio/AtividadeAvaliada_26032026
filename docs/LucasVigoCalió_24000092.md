@@ -50,7 +50,7 @@ Ficaram fora do MVP, por escolha de escopo, recursos mais complexos como integra
 ---
 
 # 5. Casos de Uso (mínimo: 10)
-![Diagrama UC](./imagens/UC_LucasVigoCalio.png)
+![Diagrama UC](../imagens/UC_LucasVigoCalio.png)
 
 ---
 
